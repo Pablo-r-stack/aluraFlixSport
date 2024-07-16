@@ -44,7 +44,7 @@ src/
 ## Instalación
 
 - Clonar el Repositorio:
-    git clone https://github.com/tu-usuario/aluraflix-sports.git
+    git clone https://github.com/Pablo-r-stack/aluraFlixSport.git
 
     cd aluraflix-sports
 
@@ -75,7 +75,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 ## INFORMACION EXTRA
 todo lo desarrollado fue hecho con fines didacticos y educativos, basado en los requerimientos del programa 'One' de Alura latam y Oracle.
 
-algunos icons e imagenes fueron sacados de freepik.
+algunos iconos e imagenes fueron sacados de freepik.
 
 <a href="https://www.freepik.com/search">Icon by riajulislam</a>
 
